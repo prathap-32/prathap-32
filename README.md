@@ -17,7 +17,10 @@ Hi, I’m **Prathap G**, an ***Aspiring DevOps Engineer*** with a strong interes
 
 
 ## ⭐ Top Contributed Repositories
+<div align="center">
+  
 ![](https://github-contributor-stats.vercel.app/api?username=prathap-32&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
+</div>
 
 ## 📊 GitHub Stats:
 [![prathap-32 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prathap-32&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=a9b1d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
