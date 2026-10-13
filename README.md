@@ -3,7 +3,7 @@
 Hi, I’m **Prathap G** — an **Aspiring DevOps Engineer** focused on **Linux**, **Cloud**, **CI/CD**, and **Automation**.
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&center=true&vCenter=true&width=720&lines=ubuntu@prathap:~$+whoami;Prathap+G;Aspiring+DevOps+Engineer;Linux+%7C+Cloud+%7C+Automation;CI%2FCD+%7C+Infrastructure+%7C+Reliability" alt="DevOps Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&center=true&vCenter=true&width=720&lines=prathap32@DevOps:~$+whoami;Prathap+G;Aspiring+DevOps+Engineer;Linux+%7C+Cloud+%7C+Automation;CI%2FCD+%7C+Infrastructure+%7C+Reliability" alt="DevOps Intro" />
 </div>
 
 <p align="center">
@@ -66,15 +66,11 @@ A personal Linux and DevOps automation workspace for scripts, infrastructure set
 <div>
   <p align="center">
     <b><em>GitHub Stats:</em></b> <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhargavi-hash" alt="GitHub Stats"> <br><br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathap-32" alt="GitHub Stats"> <br><br>
   </p>
 </div>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhargavi-hash&amp;show_icons=true&amp;include_all_commits=true" alt="My github status">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavi-hash&amp;layout=compact" alt="Top Langs">
-</p>
 <hr>
-<p>Credits: <a href="https://github.com/Bhargavi-hash">Bhargavi-hash</a></p>
+
 
 <!--
 ## ⭐ Top Contributed Repositories
