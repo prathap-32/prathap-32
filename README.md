@@ -1,10 +1,10 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F766E,100:00D1B2&height=210&section=header&text=Prathap%20G&fontSize=54&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Aspiring%20DevOps%20Engineer&descSize=20&descAlignY=60&descColor=C9D1D9" alt="Prathap G banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F766E,100:00D1B2&height=210&section=header&text=Prathap%20G&fontSize=54&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&d[...]"/>
 
 <a href="https://github.com/prathap-32">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=00D1B2&center=true&vCenter=true&width=640&height=40&lines=Linux+%C2%B7+Cloud+%C2%B7+CI%2FCD+%C2%B7+Automation;Building+reliable%2C+repeatable+infrastructure;Bridging+development+and+operations;Automate+everything+that+repeats" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=00D1B2&center=true&vCenter=true&width=640&height=40&lines=Linux+%C2%B7+Cloud+%C2%B7[...]"/>
 </a>
 
 <br/>
@@ -34,7 +34,7 @@ focus:     Cloud-native deployments · IaC · Observability · Security
 status:    Learning in public, shipping small, improving daily
 ```
 
-I'm an aspiring DevOps engineer with practical experience in **Linux**, **AWS** and **automation**. I build reliable, maintainable infrastructure and automate repeatable workflows to bridge development and operations.
+I'm an aspiring DevOps engineer with practical experience in **Linux**, **AWS** and **automation**. I build reliable, maintainable infrastructure and automate repeatable workflows to bridge develo[...]
 
 <br/>
 
@@ -109,10 +109,10 @@ I'm an aspiring DevOps engineer with practical experience in **Linux**, **AWS** 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=prathap-32&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D1B2&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathap-32&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D1B2&text_color=C9D1D9" alt="Top languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=prathap-32&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D1B2&icon_color=58A6FF&text_color=C9D1D9" alt="GitH[...]"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathap-32&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D1B2&text_color=C9D1D9" alt="Top language[...]"/>
 
-<img src="https://streak-stats.demolab.com?user=prathap-32&theme=dark&hide_border=true&background=0D1117&ring=00D1B2&fire=58A6FF&currStreakLabel=00D1B2&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub streak" width="85%"/>
+<img src="https://streak-stats.demolab.com?user=prathap-32&theme=dark&hide_border=true&background=0D1117&ring=00D1B2&fire=58A6FF&currStreakLabel=00D1B2&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=[...]"/>
 
 </div>
 
@@ -127,6 +127,7 @@ I'm open to **DevOps internships, junior roles and collaboration** on automation
 | :-- | :-- |
 | 💼 LinkedIn | [linkedin.com/in/prathap32](https://linkedin.com/in/prathap32) |
 | 🐙 GitHub | [github.com/prathap-32](https://github.com/prathap-32) |
+| 🌐 Portfolio | [prathap32.netlify.app](https://prathap32.netlify.app/) |
 | ✉️ Email | prathap.incloud@gmail.com |
 
 <div align="center">
