@@ -1,37 +1,84 @@
-# 💫 About Me:
-Hi, I’m **Prathap G**, an ***Aspiring DevOps Engineer*** with a strong interest in building, automating, and scaling reliable cloud-native systems.
+# 🚀 prathap-32@devops:~$ whoami
 
-  🚀 Learning DevOps tools, cloud platforms, and CI/CD<br>
-  🔧 Focused on automation and reliable deployments<br>
-  🤝 Bridging development and operations<br>
+Hi, I’m **Prathap G** — an **Aspiring DevOps Engineer** focused on **Linux**, **Cloud**, **CI/CD**, and **Automation**.
 
-## 🌐 Connect With Me 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prathap32) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prathap.incloud@gmail.com) 
-
-
-## 💻 Tech Stack:
 <div align="center">
-  
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&center=true&vCenter=true&width=720&lines=ubuntu@prathap:~$+whoami;Prathap+G;Aspiring+DevOps+Engineer;Linux+%7C+Cloud+%7C+Automation;CI%2FCD+%7C+Infrastructure+%7C+Reliability" alt="DevOps Intro" />
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
+## 🔧 Current Focus
+- Learning **DevOps tooling**, **cloud platforms**, and **deployment automation**
+- Building **reliable infrastructure** and **containerized workflows**
+- Bridging **development** and **operations** with automation and monitoring
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prathap32)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prathapg.32@gmail.com)
+
+## 🧰 Linux & DevOps Stack
+<div align="center">
+
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-5C4EE5?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+## 🚀 Featured Projects
+
+### 1) digital-health-care-record-management
+[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/prathap-32/digital-health-care-record-management)  [![Code](https://img.shields.io/badge/Code-Healthcare-00C7B7?style=flat-square)](https://github.com/prathap-32/digital-health-care-record-management)
+
+A digital healthcare records system for managing patient data securely and efficiently in a structured workflow.  
+**Tech:** Python · Django · PostgreSQL · Docker · CI/CD
+
+---
+
+### 2) micro-service-voting-app
+[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/prathap-32/micro-service-voting-app)  [![Deploy](https://img.shields.io/badge/Deploy-Containerized-FF6B35?style=flat-square)](https://github.com/prathap-32/micro-service-voting-app)
+
+A microservices-based voting application designed to demonstrate distributed system architecture and deployment patterns.  
+**Tech:** Docker · Kubernetes · Node.js · Redis · Nginx
+
+---
+
+### 3) DevOps Automation Toolkit
+[![Repo](https://img.shields.io/badge/Repo-Portfolio-181717?style=flat-square&logo=github)](https://github.com/prathap-32)  [![Stack](https://img.shields.io/badge/Focus-Automation-7C3AED?style=flat-square)](https://github.com/prathap-32)
+
+A personal Linux and DevOps automation workspace for scripts, infrastructure setup, and deployment workflows.  
+**Tech:** Bash · Linux · GitHub Actions · Terraform · Monitoring
+
+---
+
+<h2>👀 My GitHub Stats</h2>
+<div>
+  <p align="center">
+    <b><em>GitHub Stats:</em></b> <br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhargavi-hash" alt="GitHub Stats"> <br><br>
+  </p>
+</div>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhargavi-hash&amp;show_icons=true&amp;include_all_commits=true" alt="My github status">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavi-hash&amp;layout=compact" alt="Top Langs">
+</p>
+<hr>
+<p>Credits: <a href="https://github.com/Bhargavi-hash">Bhargavi-hash</a></p>
 
 <!--
 ## ⭐ Top Contributed Repositories
 <div align="center">
-  
-![](https://github-contributor-stats.vercel.app/api?username=prathap-32&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
+  <img src="https://github-contributor-stats.vercel.app/api?username=prathap-32&limit=5&theme=nightowl&combine_all_yearly_contributions=true" alt="Contributions" />
 </div>
 -->
-
-## 📊 GitHub Stats:
-[![prathap-32 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prathap-32&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=a9b1d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!--
-## LeetCode Stats:
-![LeetCode Stats](https://leetcard.jacoblin.cool/prathap32?theme=catppuccinMocha&font=Gowun%20Batang)
-
-## 🐳 Packages
-[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-prathap32-blue?logo=docker&logoColor=white)](https://hub.docker.com/u/prathap32)<br>
-[![GitHub Packages](https://img.shields.io/badge/GitHub%20Packages-prathap--32-181717?logo=github&logoColor=white)](https://github.com/prathap-32?tab=packages)
--->
-</div>
