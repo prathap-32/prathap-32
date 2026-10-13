@@ -11,8 +11,8 @@
 
 <a href="https://linkedin.com/in/prathap32"><img src="https://img.shields.io/badge/LinkedIn-prathap32-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/></a>
 <a href="https://github.com/prathap-32"><img src="https://img.shields.io/badge/GitHub-prathap--32-00D1B2?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-58A6FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/></a>
-<img src="https://komarev.com/ghpvc/?username=prathap-32&style=for-the-badge&color=00D1B2&label=PROFILE+VIEWS&labelColor=0D1117" alt="Profile views"/>
+<a href="mailto:prathap.incloud@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-58A6FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/></a>
+
 
 </div>
 
@@ -38,22 +38,6 @@ I'm an aspiring DevOps engineer with practical experience in **Linux**, **AWS** 
 
 <br/>
 
-<!-- ═══════════════ PIPELINE ═══════════════ -->
-## 🔄 &nbsp;How I Ship
-
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#0F766E','primaryTextColor':'#ffffff','primaryBorderColor':'#00D1B2','lineColor':'#58A6FF','secondaryColor':'#161B22','tertiaryColor':'#0D1117','fontFamily':'monospace'}}}%%
-flowchart LR
-    A[💻 Code<br/>Git] --> B[🧪 Build & Test<br/>GitHub Actions]
-    B --> C[📦 Package<br/>Docker]
-    C --> D[🏗️ Provision<br/>Terraform · Ansible]
-    D --> E[☸️ Deploy<br/>Kubernetes · AWS]
-    E --> F[📈 Observe<br/>Monitor & Improve]
-    F -.feedback.-> A
-```
-
-<br/>
-
 <!-- ═══════════════ SKILLS ═══════════════ -->
 ## 🧰 &nbsp;Tech Stack
 
@@ -74,7 +58,6 @@ flowchart LR
 | ☁️ **Cloud** | AWS — EC2 · S3 · IAM basics |
 | 📦 **Containers** | Docker · Kubernetes (fundamentals) |
 | 🏗️ **IaC** | Terraform |
-| 🤖 **Config Mgmt** | Ansible |
 | 🌿 **Collaboration** | Git · branching & pull-request workflows |
 
 <br/>
@@ -95,7 +78,7 @@ flowchart LR
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3>🏥 Digital Health Care<br/>Record Management</h3>
       <p>Secure patient data application with containerised deployment.</p>
       <p>
@@ -106,7 +89,7 @@ flowchart LR
       </p>
       <a href="https://github.com/prathap-32/digital-health-care-record-management">View repository →</a>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3>🗳️ Microservice<br/>Voting App</h3>
       <p>Example microservices and deployment patterns on containers and Kubernetes.</p>
       <p>
@@ -115,16 +98,6 @@ flowchart LR
         <img src="https://img.shields.io/badge/Kubernetes-0D1117?style=flat-square&logo=kubernetes&logoColor=00D1B2" alt="Kubernetes"/>
       </p>
       <a href="https://github.com/prathap-32/micro-service-voting-app">View repository →</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🧪 DevOps Automation<br/>Toolkit</h3>
-      <p>Personal scripts and workflows for repeatable operations.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=58A6FF" alt="Bash"/>
-        <img src="https://img.shields.io/badge/Terraform-0D1117?style=flat-square&logo=terraform&logoColor=00D1B2" alt="Terraform"/>
-        <img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=githubactions&logoColor=58A6FF" alt="GitHub Actions"/>
-      </p>
-      <a href="https://github.com/prathap-32">View profile →</a>
     </td>
   </tr>
 </table>
@@ -141,8 +114,6 @@ flowchart LR
 
 <img src="https://streak-stats.demolab.com?user=prathap-32&theme=dark&hide_border=true&background=0D1117&ring=00D1B2&fire=58A6FF&currStreakLabel=00D1B2&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub streak" width="85%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathap-32&bg_color=0D1117&color=00D1B2&line=58A6FF&point=FFFFFF&area=true&area_color=0F766E&hide_border=true" alt="Contribution activity graph" width="95%"/>
-
 </div>
 
 <br/>
@@ -156,7 +127,7 @@ I'm open to **DevOps internships, junior roles and collaboration** on automation
 | :-- | :-- |
 | 💼 LinkedIn | [linkedin.com/in/prathap32](https://linkedin.com/in/prathap32) |
 | 🐙 GitHub | [github.com/prathap-32](https://github.com/prathap-32) |
-| ✉️ Email | your-email@example.com |
+| ✉️ Email | prathap.incloud@gmail.com |
 
 <div align="center">
 
